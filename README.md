@@ -2,6 +2,8 @@
 
 **A predictive model for whether a passenger survived the Titanic disaster or not**
 
+**Survival prediction matching rate: 94.50%**
+
 
 Dataset source: Kaggle
 
