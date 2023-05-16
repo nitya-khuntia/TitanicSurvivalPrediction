@@ -1,6 +1,6 @@
 # Titanic
 
-**A predictive model for whether a passenger survived the Titanic disaster or not **
+**A predictive model for whether a passenger survived the Titanic disaster or not**
 
 
 
